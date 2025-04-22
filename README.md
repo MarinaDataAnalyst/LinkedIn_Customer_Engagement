@@ -46,16 +46,19 @@ Data was processed from LinkedIn Analytics. In general I did 13 projects. The fi
 *	Analyzed top posts by impressions, clicks, engagement
 *	Benchmarked against 9 competitors and followers audiences
 *	Reviewed Google Analytics and Bing performance on selected content
+
 **2.	Strategic Content Planning**
 *	Proposed a content calendar (3 posts/week: Tue – Hot Topic,  Wed – Legal Gym™, Fri – Light post)
 *	Designed the relaunch of the Legal Gym™️ weekly series (2 types: carousels and plain posts)
 *	Introduced Hot Topics Tuesday for timely legal alerts
 *	Provided recommendations on how to integrate subscription plans into content and CTA
+
 **3.	Execution**
 *	Drafted 20+ posts ahead of schedule, including carousels, visuals, and calls-to-action
 *	Created posts in multiple tones (company voice, personal profile tone, educational, soft CTA)
 *	Proposed optimized scheduling to avoid oversaturation
 *	Created branded post templates and lead magnets (e.g., carousels, CTA)
+
 **4.	Performance Monitoring**
 *	Analyzed engagement patterns week by week (LinkedIn Analytics)
 *	Provided insight that a 4-day consecutive posting reduced visibility
