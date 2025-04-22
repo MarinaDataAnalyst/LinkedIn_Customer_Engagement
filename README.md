@@ -34,11 +34,14 @@ Based on the initial meeting, the questions asked and the answers received, a pr
 
 **Roles:**
 - my role is a project lead, strategist, researcher, data collector/scraper and analyst, project communicator and main content creator.
-- the role of the second participant is a data analyst (based on his own motivation)
-- the role of the third participant is a digital marketing specialist (based on his own motivation)
+- 2nd role participant is a data analyst (based on his own motivation). Assisted with LinkedIn analytics review, contributed to interim reporting, and supported the preparation of content drafts under guidance.
+- the role of the third participant is a digital marketing specialist (based on his own motivation). Participated in early-stage meetings without input, quited the project and did not contribute to the execution phase
 
- 
-Data was processed from LinkedIn Analytics. In general I did 13 projects. The final project included 3 parts: main Exploratory and giving insights and summary project with visualisation in Tableau and presentation of thoughts in PowerPoint, then A/B tests and SQL query tasks.
+I acted as the Project Lead and main strategic driver behind the LinkedIn performance and content optimization initiative.
+My role included project scoping, research design, direct client communication, data collecting and analysis, content strategy development, and post creation.
+I also coordinated the team’s work, assigned tasks, and ensured delivery timelines.
+In addition to building the overall structure and analytics framework, I independently conducted the Bing research, follower post data collection and sentiment analysis, created target personas, and proposed the final content calendar and CTA testing plan.
+One team member contributed to performance reporting and LinkedIn analytics, while another exited early without completing assigned deliverables.
 
 ## Action
 **1.	Data Audit & Research**
