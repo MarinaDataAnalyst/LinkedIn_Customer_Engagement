@@ -3,8 +3,6 @@
 <hr style="border: 2px  grey;" />
 This repository contains the project that I did during the Cooperation between companies and IMIB network, that aims to support international students in the development of working life skills.
 
-| Name                  | Description              |
-| :---------------------| :------------------------|
 |Information could be find by link:|(https://www.linkedin.com/posts/activity-7318563738813382656-WnIg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAPUQY4BnVEyMAvA6GrC6PxgNsJ-Um0g1rQ)|
 
 There were processed real big data from different businesses and profeccional sectors: banking, product, marketing, etc. In general I did 13 projects. The final project inckluded 3 parts: main Exploratory and giving insights and summary project with visualisation in Tableau and presentation of thoughts in PowerPoint, then A/B tests and SQL query tasks.
