@@ -1,103 +1,124 @@
-## Content.
+# LinkedIn Content Strategy & Analytics
 
-<hr style="border: 2px  grey;" />
-This repository contains the project I completed during the Cooperation between companies and the IMIB network. The project aims to support international students in developing work-life skills, finding a job in Finland, or seeking cooperation for their thesis work.
-<hr style="border: 1px  grey;" />
-Information could be found by link:
-https://www.linkedin.com/posts/activity-7318563738813382656-WnIg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAPUQY4BnVEyMAvA6GrC6PxgNsJ-Um0g1rQ
-<hr style="border: 2px  grey;" />
+This repository contains the project executed in partnership with the IMIB network, aimed at supporting international students in developing work-life skills, finding jobs in Finland, and exploring thesis collaborations.
 
+> **LinkedIn post overview:**  
+> https://www.linkedin.com/posts/activity-7318563738813382656-WnIg
 
-## Project timeline: 3 months.
+---
 
-## Project breakdown by TASK model
-## Situation
-- The Case Company has a professional presence on LinkedIn but lacks a consistent strategy, engaging formats, and measurable performance tracking.
-- Content was published irregularly, lacked clear targeting, and engagement was low compared to competitors and industry standards.
-- Meanwhile, EU regulatory trends (sanctions, whistleblower protection, CSRD, etc.) created a timely opportunity for industry thought leadership, but content wasn’t fully capitalizing on this.
+## Project Timeline  
+**Duration:** 3 months
 
-## Task
+---
 
-Based on the initial meeting, the questions asked and the answers received, a project development option was proposed through structuring the publication of posts on LinkedIn. I prepared a presentation on the stages and essence of the project, and also defined the roles, taking into account the motivation of the other 2 team members.
+## 1. Situation  
+- The Case Company maintained a LinkedIn presence but lacked:  
+  - A consistent publishing strategy  
+  - Engaging post formats  
+  - Measurable performance tracking  
+- Content was irregular, untargeted, and under-performed versus industry benchmarks.  
+- Ongoing EU regulatory changes (sanctions, whistleblower protection, CSRD, etc.) presented an opportunity for thought-leadership that was not fully leveraged.
 
-**Identified target:**  Develop and implement a structured LinkedIn publishing strategy – regular, targeted and measurable content on current EU regulatory trends – to strengthen the company’s expert image and increase engagement.
+---
 
-**Budget:** 0, limited tools.
+## 2. Task  
+**Objective:** Develop and implement a structured, measurable LinkedIn publishing strategy focused on EU regulatory trends to:  
+1. Strengthen the company’s expert image  
+2. Increase audience engagement  
+3. Lay groundwork for long-term analytics and optimization  
 
-**To-do list**
+**Scope & Constraints:**  
+- Budget: €0 (limited tools)  
+- Team:  
+  - **You (Project Lead):** Strategy, research, data collection, analysis, content creation, stakeholder communication  
+  - **Data Analyst:** Assisted with LinkedIn analytics, interim reports, draft content  
+  - **Digital Marketer:** Participated in initial meetings; did not contribute to execution  
 
-*	Audit and analyze existing LinkedIn content and performance
-*	Benchmark activity and engagement levels vs key competitors and followers
-*	Create a sustainable, branded content strategy with clear messaging and post formats
-*	Launch new weekly formats and define a realistic publishing rhythm
-*	Ensure content was both compliant and engaging, while increasing visibility
-*	Lay the groundwork for long-term content tracking and performance analysis
+**Key Deliverables:**  
+- Audit of existing content and performance data  
+- Competitive benchmark analysis  
+- Branded content calendar and templates  
+- Weekly content formats (Tue/Wed/Fri)  
+- Performance dashboard and slide deck with insights  
+- Recommendations for A/B testing, feature collection, and predictive modeling
 
-**Roles:**
-- my role is a project lead, strategist, researcher, data collector/scraper and analyst, project communicator and main content creator.
-- 2nd role participant is a data analyst (based on his own motivation). Assisted with LinkedIn analytics review, contributed to interim reporting, and supported the preparation of content drafts under guidance.
-- the role of the third participant is a digital marketing specialist (based on his own motivation). Participated in early-stage meetings without input, quited the project and did not contribute to the execution phase
+---
 
-I acted as the Project Lead and main strategic driver behind the LinkedIn performance and content optimization initiative.
-My role included project scoping, research design, direct client communication, data collecting and analysis, content strategy development, and post creation.
+## 3. Action
 
-I also coordinated the team’s work, assigned tasks, and ensured delivery timelines.
-In addition to building the overall structure and analytics framework, I independently conducted the Bing research, follower post data collection and sentiment analysis, analysed data on targets and mapped client personas, and proposed the final content calendar and CTA testing plan.
+### 3.1 Data Audit & Research  
+- Reviewed 1 year of LinkedIn analytics  
+- Identified top posts by impressions, clicks, reactions, and engagement  
+- Benchmarked against nine competitors and follower demographics  
+- Cross-checked Google Analytics & Bing performance  
 
-## Action
-**1.	Data Audit & Research**
-*	Reviewed 1 year of LinkedIn analytics (2nd role at the beginning) 
-*	Analyzed top posts by impressions, clicks, reactions and engagement
-*	Benchmarked against nine competitors and followers audiences (1st role)
-*	Reviewed Google Analytics and Bing performance on selected content
+### 3.2 Strategic Content Planning  
+- Proposed a **3-posts/week** cadence:
+  - **Tuesday:** Hot Topics (timely legal alerts)  
+  - **Wednesday:** Educational “Legal Gym™” series (carousels & text)  
+  - **Friday:** Light-tone or webinar reminder  
+- Designed branded post templates and lead magnets  
+- Integrated CTAs and subscription prompts  
 
-**2.	Strategic Content Planning**
-*	Proposed a content calendar (3 posts/week: Tue – Hot Topic,  Wed – Educational Content based on Company Invented Trademark Legal Gym™, Fri – Light post)
-*	Designed the relaunch of the Legal Gym™️ weekly series (2 types: carousels and plain posts)
-*	Introduced Hot Topics Tuesday for timely legal alerts
-*	Provided recommendations on how to integrate subscription plans into content and CTA
+### 3.3 Execution  
+- Drafted 20+ posts ahead of schedule (carousels, visuals, CTAs)  
+- Varied tone: company voice, personal profile, educational, soft CTA  
+- Optimized scheduling to avoid audience fatigue  
+- Maintained a live content tracker in Excel for transparency  
 
-**3.	Execution**
-*	Drafted 20+ posts ahead of schedule, including carousels, visuals, and calls-to-action, suggested video posts content
-*	Created posts in multiple tones (company voice, personal profile tone, educational, soft CTA: 3 options)
-*	Proposed optimized scheduling to avoid oversaturation based on analytics
-*	Created branded post templates and lead magnets (e.g., carousels, CTA)
+### 3.4 Performance Monitoring  
+- Analyzed weekly engagement trends in LinkedIn Analytics  
+- Discovered posting-frequency effects (4 consecutive days reduced visibility)  
+- Recommended swapping Friday soft posts for targeted webinar reminders  
+- Deployed Google Forms for reader feedback  
+- Completed detailed statistical analysis in `final_analysis.ipynb`
 
-**4.	Performance Monitoring**
-*	Analyzed engagement patterns week by week (LinkedIn Analytics)
-*	Provided insight that a 4-day consecutive posting reduced visibility
-*	Suggested replacing soft Friday posts with targeted webinar reminders when needed
-*	Maintained a live content tracker in Excel to ensure transparency and collaboration
-*	Designed Feedback Google Form
-*	*	Reviewed 1 year of LinkedIn analytics (1st role, including analysing posting campaign and comparing periods, statistical significance given in final_analysis.ipynb)
-*	given final results, conclusions and recommendations
+---
 
-**Used  tools and skills:**
-* Python (pandas, numpy, seaborn, matplotlib, plotly, re, scipy, translator);
-* Extracting and cleansing Data;
-* Exploratory Data Analysis, decomposing;
-* A/B testing;
-* Statistical Data Analysis;
-* Data visualisation;
-* Persona's identification and mapping;
-* content ideation;
-* content creation using chat GPT
+## 4. Tools & Skills  
+- **Data & Analysis:** Python (pandas, numpy, scipy), Excel, Google Analytics, Bing Webmaster  
+- **Visualization:** Matplotlib, Seaborn, Plotly  
+- **Statistics & Testing:** ANOVA, Kruskal–Wallis, Mann–Whitney U, bootstrap, effect size  
+- **Content:** Persona mapping, A/B testing, content ideation, ChatGPT-assisted writing  
+- **Presentation:** PowerPoint / Keynote
 
-✅**Achieved results (so far):**
-* Consistent content strategy aligned with company goals
-* Audience engagement increased in Legal Gym™ posts
-* Improved impression-to-click ratio (quality of engagement > volume)
-* Renewed company interest in proactive posting (e.g. use of planned materials by partners)
-* Delivered internal presentation with insights, best practices, and live content plan
-* Built foundation for long-term performance-driven content development
-* add
+---
 
-  
-<hr style="border: 2px  grey;" />
+## 5. Achieved Results  
+- Consistent, goal-aligned posting rhythm  
+- Noticeable lift in Legal Gym™ engagement  
+- Improved click-through quality (higher CTR)  
+- Renewed partner interest in repurposing content  
+- Delivered an internal presentation with actionable insights  
+- Established a framework for data-driven content optimization  
 
-## Folders contain:
+---
 
-| Name                  | Description              | 
-| :---------------------| :------------------------|
-|[Analysis](https://github.com/MarinaDataAnalyst/Data-Analysis-Projects/tree/main/AB_test_New_design)| jupyter notebooks with analysis of initial data and final results|
+## 6. Repository Structure
+
+| Folder     | Description                                    |
+|------------|------------------------------------------------|
+| `Analysis` | Jupyter notebooks with initial data audits, cohort comparisons, statistical tests, and final results |
+
+## 7. Team Reflections
+
+- **Initial setup:** The project started with three participants; one stepped away early due to shifting priorities.  
+- **Effort distribution:** Of the remaining two, the Project Lead drove the majority of the deep analysis and strategy, with the other member providing valuable support on specific tasks.  
+- **Contributions breakdown:**  
+  - **Project Lead (Myself):**  
+    - Refined a broad challenge into a focused 3-month plan  
+    - Conducted all core analyses (cohort comparisons, statistical testing, Q–Q plots, bootstrap intervals)  
+    - Developed the content strategy, drafted and designed post templates, and produced the final copy  
+    - Created all presentations, led team discussions, and communicated results to the client  
+    - Oversaw performance monitoring, interpreted LinkedIn metrics, and documented insights  
+    - Coordinated team activities, maintained scope control, and ensured timely delivery  
+  - **Team Member:**  
+    - Provided LinkedIn analytics in the form of an internal report using LinkedIn-generated charts  
+    - Supported content creation by reviewing drafts and offering suggestions  
+    - Contributed high-level observations on engagement trends  
+
+Despite different focus areas, both contributors played a role in delivering a clear, data-driven LinkedIn strategy with measurable improvements in engagement. I’m proud of how we turned an ambitious goal into concrete results within a tight timeframe, while fostering collaboration and maintaining project scope.   
+
+Feel free to explore each section of the notebook via the table of contents within the `Analysis` folder. Happy analyzing!  
 
