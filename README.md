@@ -18,7 +18,7 @@ This repository contains the project executed in partnership with the IMIB netwo
   - Engaging post formats  
   - Measurable performance tracking  
 - Content was irregular, untargeted, and under-performed versus industry benchmarks.  
-- Ongoing EU regulatory changes (sanctions, whistleblower protection, CSRD, etc.) presented an opportunity for thought-leadership that was not fully leveraged.
+- Ongoing EU regulatory changes presented an opportunity for thought-leadership that was not fully leveraged.
 
 ---
 
