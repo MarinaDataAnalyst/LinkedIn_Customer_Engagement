@@ -21,9 +21,10 @@ https://www.linkedin.com/posts/activity-7318563738813382656-WnIg?utm_source=shar
 Based on the initial meeting, the questions asked and the answers received, a project development option was proposed through structuring the publication of posts on LinkedIn. I prepared a presentation on the stages and essence of the project, and also defined the roles, taking into account the motivation of the other 2 team members.
 
 **Identified target:**  Develop and implement a structured LinkedIn publishing strategy – regular, targeted and measurable content on current EU regulatory trends – to strengthen the company’s expert image and increase engagement.
+
 **Budget:** 0, limited tools.
 
-**To-to list**
+**To-do list**
 
 *	Audit and analyze existing LinkedIn content and performance
 *	Benchmark activity and engagement levels vs key competitors and followers
