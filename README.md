@@ -20,7 +20,7 @@ https://www.linkedin.com/posts/activity-7318563738813382656-WnIg?utm_source=shar
 
 Based on the initial meeting, the questions asked and the answers received, a project development option was proposed through structuring the publication of posts on LinkedIn. I prepared a presentation on the stages and essence of the project, and also defined the roles, taking into account the motivation of the other 2 team members.
 
-**Identified target:**  to improve Marketing and Sales and attract  premium customers.
+**Identified target:**  Develop and implement a structured LinkedIn publishing strategy – regular, targeted and measurable content on current EU regulatory trends – to strengthen the company’s expert image and increase engagement.
 **Budget:** 0, limited tools.
 
 **To-to list**
@@ -45,21 +45,21 @@ One team member contributed to performance reporting and LinkedIn analytics, whi
 
 ## Action
 **1.	Data Audit & Research**
-*	Reviewed 1 year of LinkedIn analytics
-*	Analyzed top posts by impressions, clicks, engagement
-*	Benchmarked against 9 competitors and followers audiences
+*	Reviewed 1 year of LinkedIn analytics (2nd role at the beginning, 1st role at the and including analysing posting campaign and comparing periods, given in )
+*	Analyzed top posts by impressions, clicks, reactions and engagement
+*	Benchmarked against nine competitors and followers audiences (1st role)
 *	Reviewed Google Analytics and Bing performance on selected content
 
 **2.	Strategic Content Planning**
-*	Proposed a content calendar (3 posts/week: Tue – Hot Topic,  Wed – Legal Gym™, Fri – Light post)
+*	Proposed a content calendar (3 posts/week: Tue – Hot Topic,  Wed – Educational Content based on Company Invented Trademark Legal Gym™, Fri – Light post)
 *	Designed the relaunch of the Legal Gym™️ weekly series (2 types: carousels and plain posts)
 *	Introduced Hot Topics Tuesday for timely legal alerts
 *	Provided recommendations on how to integrate subscription plans into content and CTA
 
 **3.	Execution**
-*	Drafted 20+ posts ahead of schedule, including carousels, visuals, and calls-to-action
-*	Created posts in multiple tones (company voice, personal profile tone, educational, soft CTA)
-*	Proposed optimized scheduling to avoid oversaturation
+*	Drafted 20+ posts ahead of schedule, including carousels, visuals, and calls-to-action, suggested video posts content
+*	Created posts in multiple tones (company voice, personal profile tone, educational, soft CTA: 3 options)
+*	Proposed optimized scheduling to avoid oversaturation based on analytics
 *	Created branded post templates and lead magnets (e.g., carousels, CTA)
 
 **4.	Performance Monitoring**
@@ -72,7 +72,6 @@ One team member contributed to performance reporting and LinkedIn analytics, whi
 
 **Used  tools and skills:**
 * Python (pandas, numpy, seaborn, matplotlib, plotly, re, scipy, translator);
-* csraping non-sensitive public data from LinkedIn pages using free tool Data Scraper
 * Extracting and cleansing Data;
 * Exploratory Data Analysis, decomposing;
 * A/B testing;
