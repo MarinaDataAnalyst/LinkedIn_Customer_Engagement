@@ -3,7 +3,7 @@
 Welcome to the LinkedIn Analytics Notebook! This project walks you through a comprehensive analysis of LinkedIn content (posts + metrics), visitors, and followers across multiple time periods. Below is a high-level overview of the work, organized by major deliverable.
 
 <hr style="border: 2px  grey;" />
-**All data in this repository is anonymised!**
+## All data in this repository is anonymised!
 <hr style="border: 2px  grey;" />
 
 ## 1. Data Preparation & Anonymization
