@@ -56,7 +56,7 @@ This repository contains the project executed in partnership with the IMIB netwo
 ### 3.2 Strategic Content Planning  
 - Proposed a **3-posts/week** cadence:
   - **Tuesday:** Hot Topics (timely legal alerts)  
-  - **Wednesday:** Educational “Legal Gym™” series (carousels & text)  
+  - **Wednesday:** Educational content series (carousels & text)  
   - **Friday:** Light-tone or webinar reminder  
 - Designed branded post templates and lead magnets  
 - Integrated CTAs and subscription prompts  
