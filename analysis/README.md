@@ -56,7 +56,7 @@ For each cohort, we filter and slice the data accordingly.
   - **Kruskal–Wallis H-test** for cohort comparisons (nonparametric alternative to ANOVA)  
   - **Paired Mann–Whitney U-tests** between each cohort pair, with **Bonferroni correction** for multiple comparisons  
 - **Effect size** (η² for the one-way ANOVA on weekday CTR)  
-- **Bootstrap CIs** for per-weekday median CTR (95% intervals via 10 000 resamples)
+- **Bootstrap CIs** for per-weekday median CTR 
 
 - **Key takeaway:** with limited posts, differences are suggestive but not formally significant  
 
