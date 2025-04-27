@@ -44,7 +44,7 @@ For each cohort, we filter and slice the data accordingly.
 
 - **Time series** of impressions, clicks, engagement rate, CTR
 - **Comparisons** of means/medians across cohorts  
-- **Outlier detection** (IQR, Z-score)  
+- **Outlier detection** (IQR)  
 - **Visualizations** of trends and distributions  
 
 ---
