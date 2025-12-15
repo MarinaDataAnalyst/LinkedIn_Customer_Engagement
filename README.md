@@ -100,7 +100,7 @@ This repository contains the project executed in partnership with the IMIB netwo
 | Folder     | Description                                    |
 |------------|------------------------------------------------|
 | [Analysis](https://github.com/MarinaDataAnalyst/LinkedIn_Content_Management/tree/main/analysis) | Jupyter notebooks with initial data audits, cohort comparisons after launching posting campaign, statistical tests, and final results |
-| [Company_analysis_for_customer_engagement]((https://github.com/MarinaDataAnalyst/LinkedIn_Customer_Engagement/blob/main/Company_analysis_for_customer_engagement.pdf)| Presentation with insights, charts and suggested actions |
+| [Company_analysis_for_customer_engagement](https://github.com/MarinaDataAnalyst/LinkedIn_Customer_Engagement/blob/main/Company_analysis_for_customer_engagement.pdf)| Presentation with insights, charts and suggested actions |
 
 
 ## 7. Team Reflections
